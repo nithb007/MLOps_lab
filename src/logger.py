@@ -36,3 +36,4 @@ if __name__ == "__main__":
     logger.warning("Warning message")
     logger.error("Error message")
     logger.critical("Critical message")
+    # Logging utility for pipeline stages
